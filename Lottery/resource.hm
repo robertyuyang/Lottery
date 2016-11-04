@@ -1,0 +1,5 @@
+// Microsoft Visual C++ generated Help ID include file.
+// Used by Lottery.rc
+//
+#define HIDC_TREE_AWARDS                0x808103ea    // IDD_MAINDLG
+#define HIDC_TREE_WINNERS               0x808103eb    // IDD_MAINDLG
